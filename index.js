@@ -7,6 +7,6 @@ app.get("/", async (req, res) => {
 
 // Start server
 app.listen(3000, () => {
-  console.log("hello");
+  console.log("hello world");
   console.log("Server running on http://localhost:3000");
 });
